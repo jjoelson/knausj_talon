@@ -4,6 +4,8 @@ app: IntelliJ IDEA
 app: PyCharm
 app: PyCharm64.exe
 
+app: Xcode
+
 # When tags are supported
 #tags: ide
 -
